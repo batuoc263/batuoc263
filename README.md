@@ -62,7 +62,7 @@
 ## ☎️ Let's Connect
 
 Reach out if you're building something in:
-> Testnets · Propagation Layer (eg. OptimumP2P) · Distributed Validators · DA layers · Rollapps · RPC Optimizations
+> Testnets · Distributed Validators · DA layers · Rollapps · RPC Optimizations
 
 <p align="center">
   <strong>💬 DM-friendly on: </strong><br/>
